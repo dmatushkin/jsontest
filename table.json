@@ -1,0 +1,7 @@
+[
+[1,"A parrot", "Very beautiful bird", "Mr Smith", 10.00, 1.50, 15.00, "Mrs.Jonsen", "24.11.2007 11:00", "bid"],
+[2,"A clock", "Old clock with cuckoo", "Mr Smith", 10.00, null , null, "Mrs.Jonsen", "24.11.2007 11:00", "buy"],
+[3,"A book", "Hibernate in action", "Mr Manning", 25.00, 5.00, 50.00, "Kent Back", "24.11.2007 11:00", "bid"],
+[4,"A dress", "Red cocktail dress", "Mrs Kannigan", 200.00, 50.00, 15.00, "Mrs.Jonsen", "24.11.2007 11:00", "bid"],
+[5,"A cat", "Very beautiful cat", "Mr Smith", 10.00, 1.50, 15.00, "Mrs.Jonsen", "24.11.2007 11:00", "bid"]
+]
